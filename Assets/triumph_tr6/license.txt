@@ -1,0 +1,11 @@
+Model Information:
+* title:	Triumph TR6
+* source:	https://sketchfab.com/3d-models/triumph-tr6-69e5de3f68804fbc900557b7740b680c
+* author:	Alexios Apokaukos (https://sketchfab.com/Alexios_Apokaukos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Triumph TR6" (https://sketchfab.com/3d-models/triumph-tr6-69e5de3f68804fbc900557b7740b680c) by Alexios Apokaukos (https://sketchfab.com/Alexios_Apokaukos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

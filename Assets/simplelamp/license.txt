@@ -1,0 +1,8 @@
+Model Information:
+* title:	SimpleLamp
+* source:	https://sketchfab.com/3d-models/simplelamp-581c5afc0a0f42f5a364db49c06ed3ea
+* author:	DiruTheBeast (https://sketchfab.com/DiruTheBeast)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

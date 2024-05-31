@@ -1,0 +1,11 @@
+Model Information:
+* title:	Victorian Console Table
+* source:	https://sketchfab.com/3d-models/victorian-console-table-f94fde3014d748f0b35ca7283dd13866
+* author:	Zerostyle (https://sketchfab.com/hoanganh.trine)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Victorian Console Table" (https://sketchfab.com/3d-models/victorian-console-table-f94fde3014d748f0b35ca7283dd13866) by Zerostyle (https://sketchfab.com/hoanganh.trine) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
